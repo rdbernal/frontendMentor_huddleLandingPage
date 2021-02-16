@@ -75,6 +75,7 @@ body {
     border-radius: 40px;
     border: none;
     color: var(--violet);
+    background-color: white;
     box-shadow: -1px 4px 8px 5px rgba(0, 0, 0, 0.178);
     cursor: pointer;
     transition: .1s;
