@@ -1,4 +1,4 @@
-🚀 Check out my solution (1440px and 375px width) =>
+🚀 Check out my solution (1440px and 375px width) => https://frontend-mentor-huddle-landing-page-sigma.vercel.app/
 
 # Frontend Mentor - Huddle landing page with single introductory section
 
