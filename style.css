@@ -23,6 +23,7 @@ body {
     background-size: cover;
     background-color: var(--violet);
     padding: clamp(25px, 4vw, 55px);
+    position: relative;
 }
 #container {
     height: 100%;
